@@ -1,6 +1,12 @@
 # RBlock 
 Fast and  lightweight ad blocker extension for chrome.
 
+# Blocks:
+* facebook suggestions (groups,pages)
+* vk ads
+* Google analytics, Yandex.Metrika tracking and other
+* etc
+
 # Install
 
 * copy repository to local folder
