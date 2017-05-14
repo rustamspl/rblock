@@ -17,3 +17,7 @@ Blocks:
 http://stackoverflow.com/questions/30287907/how-to-hack-chrome-dll-to-get-rid-of-the-disable-developer-mode-extensions-pop/30361260#30361260
 
 install/DevWarningPatch.bat
+
+# I still see ads on %site%!!!
+Create issue:
+https://github.com/rustamspl/rblock/issues/new
