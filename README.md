@@ -19,5 +19,5 @@ http://stackoverflow.com/questions/30287907/how-to-hack-chrome-dll-to-get-rid-of
 install/DevWarningPatch.bat
 
 # I still see ads on %site%!!!
-Create issue:
+Create an issue:
 https://github.com/rustamspl/rblock/issues/new
