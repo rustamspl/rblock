@@ -5,7 +5,7 @@ Blocks:
 * facebook suggestions (groups,pages)
 * vk ads
 * Google analytics, Yandex.Metrika tracking and other
-* etc
+* [etc](https://github.com/rustamspl/rblock/blob/master/rblock/background.js)
 
 # Install
 
