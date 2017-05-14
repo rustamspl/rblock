@@ -2,7 +2,7 @@ var map = [].map;
 
 function hidePages() {
     map.call(document.querySelectorAll('.ego_section'), (el) => {
-        if (el.innerText.match(/^Рекомендуемые Страницы/i)) {
+        if (el.innerText.match(/^(Рекомендуемые Страницы|Рекомендуемые группы)/i)) {
             el.parentNode.style.display = 'none';
         }
     })
