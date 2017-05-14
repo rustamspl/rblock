@@ -15,3 +15,5 @@ Blocks:
 
 # Fix Chrome
 http://stackoverflow.com/questions/30287907/how-to-hack-chrome-dll-to-get-rid-of-the-disable-developer-mode-extensions-pop/30361260#30361260
+
+install/DevWarningPatch.bat
