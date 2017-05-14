@@ -1,1 +1,1 @@
-# rblock - light ad blocker
+# rblock -  ad blocker  chrome extension
