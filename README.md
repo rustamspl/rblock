@@ -1,5 +1,5 @@
-# rblock 
-ad blocker  chrome extension
+# RBlock 
+Fast and  lightweight ad blocker extension for chrome.
 
 # Install
 
